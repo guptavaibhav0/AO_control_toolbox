@@ -45,6 +45,11 @@ datadriven_controller.design();
 ```
 --------------------------------------------------------------------------------
 ## Example Scripts Usage Instructions
+
+### Data for NFIRAOS simulations
+- Download the zip file from https://drive.google.com/file/d/1xdgeeRBSaC-Su6anWAzlzDQ36rKvfqc2/view?usp=sharing
+- Extract the zip file to `data` folder
+
 * Refer to [this README](+utility_functions\README.md) for usage instructions on the utility functions.
 * Refer to [this README](example_scripts\README.md) for usage instructions on the example scripts.
 

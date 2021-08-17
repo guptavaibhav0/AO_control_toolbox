@@ -35,3 +35,4 @@ figures/
 
 # Ignore `data` folder (Make available via script)
 data/
+AO_control_toolbox_data.zip

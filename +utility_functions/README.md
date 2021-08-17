@@ -22,7 +22,7 @@ Utility functions for design and analysis of vibration controller for AO systems
 
 --------------------------------------------------------------------------------
 ## Complete Usage Instructions
-Refer to [this README](..\example_scripts\README.md) for complete usage instructions.
+Refer to [this README](../example_scripts/README.md) for complete usage instructions.
 
 --------------------------------------------------------------------------------
 ## Authors

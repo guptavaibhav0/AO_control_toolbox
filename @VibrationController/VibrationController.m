@@ -18,6 +18,7 @@ classdef VibrationController < handle
     %     * set_disturbance_frd - Set FRD model of disturbance
     %     * update_parameter    - Set controller hyper-parameters
     %     * design              - Design vibration controller
+    %     * save_to_fits        - Save vibration controller to a `.fits` file
     %
     
     properties (SetAccess = private)
